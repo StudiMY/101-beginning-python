@@ -13,6 +13,7 @@ Welcome to Python For Beginners's documentation!
    introduction/index
    data_types/index
    variable_statement_expression/index
+   flow_control/index
 
 Indices and tables
 ==================
