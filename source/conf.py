@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Python For Beginners'
-copyright = '2018, Chee Yim Goh'
+copyright = '2018, MARIMORE ENGINEERING SDN. BHD. (925539-H)'
 author = 'Chee Yim Goh'
 
 # The short X.Y version
