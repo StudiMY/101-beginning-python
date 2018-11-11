@@ -65,7 +65,12 @@ Now try this in IDLE.
 >>> s1
 >>> s2
 
-1. What is this ``replace`` method? Hint: Refer to :ref:`Quick Resources <quick-resources>`.
+>>> '{0}, {1}, {2}'.format('a', 'b', 'c')
+>>> '{2}, {1}, {0}'.format('a', 'b', 'c')
+>>> '{0}{1}{0}'.format('abra', 'cad')
+>>> 'Coordinates: {latitude}, {longitude}'.format(latitude='37.24N', longitude='-115.81W')
+
+1. What is this ``replace`` and ``format`` methods? Hint: Refer to :ref:`Quick Resources <quick-resources>`.
 2. Referring to **Variable, Statement and Expression** topic earlier, is string mutable or immutable? How do you prove it? Hint: Use ``id()`` built-in function.
 3. What does it means when we try to alter the value of strings like using ``replace()`` ?  Is the ``id()`` the same?
 4. Work on this `assignments <https://repl.it/data/classrooms/share/9c0e9a152b02097c659ba3c75d4e04dd>`_ using the built-in string methods. In the assignments, you'll learn how to search, count and perform string comparison.
@@ -73,6 +78,7 @@ Now try this in IDLE.
 Best Practices
 --------------
 1. Standardize using ` or " throughout your program for code readability. Stick to one way.
+2. Use string formatting to format your strings. Refer to :ref:`Quick Resources <quick-resources>`.
 
 Remember
 --------
@@ -86,6 +92,6 @@ Remember
 Quick Resources
 ---------------
 1. Python Text Sequence - https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
-2. Python Strings & Methods - https://docs.python.org/3/tutorial/introduction.html#strings
-3. String Processing Operations - https://docs.python.org/3/library/text.html#stringservices
-
+2. Common Strings Operations & Formatting - https://docs.python.org/3/library/string.html
+3. Python Strings & Methods - https://docs.python.org/3/tutorial/introduction.html#strings
+4. String Processing Operations - https://docs.python.org/3/library/text.html#stringservices
