@@ -15,6 +15,7 @@ Welcome to Python For Beginners's documentation!
    variable_statement_expression/index
    flow_control/index
    string_manipulation/index
+   function/index
 
 Indices and tables
 ==================
