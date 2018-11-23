@@ -13,3 +13,13 @@ In order to learn effectively, this course will:-
 * Encourage critical thinking through questions / exploration (tinker on your own)
 
 Let's begin !
+
+.. topic:: Programming In a Nutshell
+
+    .. image:: images/in_a_nutshell.png
+
+
+Credits
+-------
+1. RMOTR - https://www.rmotr.com/
+2. Jeff Knupp - https://jeffknupp.com
