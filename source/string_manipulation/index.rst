@@ -73,7 +73,7 @@ Now try this in IDLE.
 1. What is this ``replace`` and ``format`` methods? Hint: Refer to :ref:`Quick Resources <quick-resources>`.
 2. Referring to **Variable, Statement and Expression** topic earlier, is string mutable or immutable? How do you prove it? Hint: Use ``id()`` built-in function.
 3. What does it means when we try to alter the value of strings like using ``replace()`` ?  Is the ``id()`` the same?
-4. Work on this `assignments <https://repl.it/data/classrooms/share/9c0e9a152b02097c659ba3c75d4e04dd>`_ using the built-in string methods. In the assignments, you'll learn how to search, count and perform string comparison.
+4. Work on this `assignments <https://repl.it/classroom/invite/LowDucE>`_ using the built-in string methods. In the assignments, you'll learn how to search, count and perform string comparison.
 
 Best Practices
 --------------
