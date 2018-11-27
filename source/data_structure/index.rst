@@ -5,6 +5,9 @@ The Bigger Picture
 ------------------
 Some say, the two most important elements in programming skills are **Data Structure** and **Algorithm**. 
 
+   "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." 
+   -- Linus Torvalds
+
 Data Structure is how you organize data (hence, structure) while algorithm is the approach to solve a problem (i.e. search, sort). 
 If you have selected the right data structure and use the right algorithm for a specific problem, your program can do its job lightning fast. 
 
