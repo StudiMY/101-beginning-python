@@ -16,6 +16,7 @@ Welcome to Python For Beginners's documentation!
    flow_control/index
    string_manipulation/index
    function/index
+   data_structure/index
 
 Indices and tables
 ==================
