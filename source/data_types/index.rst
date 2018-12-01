@@ -53,7 +53,7 @@ Critical Thinking - Discussions
 1. What other types you found besides the common ``int``, ``float``, ``str``, ``bool``, ``None`` type ? 
 2. Can you type in Chinese or other languages ? What type is it?
 3. If everything in computer is represented by 1s and 0s, how does it represent:-
-
+    
    * 10
    * 3.1243
    * "hello world"
