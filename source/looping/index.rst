@@ -5,7 +5,7 @@ The Bigger Picture
 -------------------
 Continue from where we left off in `Flow Control` topic, we'll learn about looping in this topic. 
 
-From the word `looping` itself, you can guess how your program will flow.
+From the word `looping` itself, you can guess how your program will flow. It's interchangeable with the word **iteration**.
 
 .. topic:: Looping In a Nutshell - David Baumgold
 
@@ -41,14 +41,21 @@ Open up Python IDLE and type away.
 ...         continue
 ...     print("Found a number", num)
 
+>>> group = ['sam', 'carol', 'john']
+>>> for person1 in group:
+...   for person2 in group:        # nested for loop
+...      if person1 is person2:
+...         continue   
+...      print(person1 + " greets " + person2 )
 
 Problem Solving
 ---------------
 1. When should you choose to use ``while`` and ``for`` since both are looping methods?
 2. What happens if we do not set ``arrive = True`` inside the ``while`` loop?
 3. There are other Python built-in functions in the code example above. Can you identify them?
-4. In the ``for`` loop example, ``words`` and ``range()`` are considered iterables. What are iterables? 
-5. Can you give another examples of iterables?
+4. Did you notice we can use ``else`` with ``for`` loop?
+5. In the ``for`` loop example, ``words`` and ``range()`` are considered iterables. What are iterables? 
+6. Can you give another examples of iterables? Hint: "hello world" 
 
 Critical Thinking - Discussions
 --------------------------------
