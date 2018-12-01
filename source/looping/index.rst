@@ -7,7 +7,8 @@ Continue from where we left off in `Flow Control` topic, we'll learn about loopi
 
 From the word `looping` itself, you can guess how your program will flow.
 
-.. topic:: Looping - David Baumgold
+.. topic:: Looping In a Nutshell - David Baumgold
+
     A loop is a **method of programming** that allows you to **repeat the same action or idea** over and over **without repeating code.**
 
 Syntax and Semantics - Learning Python Grammar
