@@ -23,3 +23,5 @@ Credits
 -------
 1. RMOTR - https://www.rmotr.com/
 2. Jeff Knupp - https://jeffknupp.com
+3. David Baumgold - https://davidbaumgold.com 
+4. Python Software Foundation - https://docs.python.org/3/index.html
