@@ -17,6 +17,7 @@ Welcome to Python For Beginners's documentation!
    string_manipulation/index
    function/index
    data_structure/index
+   looping/index
 
 Indices and tables
 ==================
