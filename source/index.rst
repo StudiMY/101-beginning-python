@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Python For Beginners 101 documentation!
-================================================
+==================================================
 
 .. toctree::
    :maxdepth: 2
