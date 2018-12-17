@@ -70,7 +70,7 @@ Now try this in IDLE.
 >>> '{0}{1}{0}'.format('abra', 'cad')
 >>> 'Coordinates: {latitude}, {longitude}'.format(latitude='37.24N', longitude='-115.81W')
 
-1. What is this ``replace`` and ``format`` methods? Hint: Refer to :ref:`Quick Resources <quick-resources>`.
+1. What is this ``replace`` and ``format`` methods? Hint: Refer to :ref:`Quick Resources <quick-resources-strings>`.
 2. Referring to **Variable, Statement and Expression** topic earlier, is string mutable or immutable? How do you prove it? Hint: Use ``id()`` built-in function.
 3. What does it means when we try to alter the value of strings like using ``replace()`` ?  Is the ``id()`` the same?
 4. Work on this `assignments <https://repl.it/classroom/invite/LowDucE>`_ using the built-in string methods. In the assignments, you'll learn how to search, count and perform string comparison.
@@ -78,14 +78,14 @@ Now try this in IDLE.
 Best Practices
 --------------
 1. Standardize using ` or " throughout your program for code readability. Stick to one way.
-2. Use string formatting to format your strings. Refer to :ref:`Quick Resources <quick-resources>`.
+2. Use string formatting to format your strings. Refer to :ref:`Quick Resources <quick-resources-strings>`.
 
 Remember
 --------
-1. Python 3 strings are sequence of Unicode. This means you can store all the symbols of Unicode supports in strings like Chinese characters!
+1. Python 3 strings are **sequence of Unicode**. This means you can store all the symbols of Unicode supports in strings like Chinese characters!
 2. Since string is a sequence of Unicode, you can access a specific character / symbol by slicing it. For example, ``"hello"[0:2]`` will return ``he``.
 3. You can traverse a string using ``for`` loop and ``in`` operator. More on this in **Looping** topic.
-4. There are tonnes of built-in string methods you can use to manipulate string.  
+4. There are tonnes of **built-in string methods** you can use to manipulate string.  
 
 .. _quick-resources-strings:
 

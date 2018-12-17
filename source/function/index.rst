@@ -3,7 +3,7 @@ Functions
 =========
 The Bigger Picture
 ------------------
-Problem solving is about breaking down into mind-size bites - decomposing. Function allows us to essentially do 
+Problem solving is about **breaking down problem into mind-size bites** - decomposing. Function allows us to essentially do 
 just that - divide the code into smaller chunks. What comes to mind when it comes to ``functions`` ? Hint: You 
 learn it in school! 
 
@@ -73,7 +73,7 @@ how it behaves when passed to a function.
 >>> print(answer_string)
 
 1. What is the result of ``print(a_list)`` and ``print(answer_list)`` ?
-2. What is the result of ``print (a_string)`` and ``print(answer_string)`` ?
+2. What is the result of ``print(a_string)`` and ``print(answer_string)`` ?
 3. How does this help you to understand the behaviour between mutable vs immutable argument when it's passed to a function ? 
 
 Best Practices
@@ -83,7 +83,7 @@ Best Practices
 
 Remember
 --------
-1. Function is like a mini program within a program.
+1. Function is like a **mini program within a program**.
 2. It allows us to:-
 
    * Reuse Code

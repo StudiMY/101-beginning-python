@@ -14,8 +14,8 @@ Welcome to Python For Beginners 101 documentation!
    data_types/index
    variable_statement_expression/index
    flow_control/index
-   string_manipulation/index
    function/index
+   string_manipulation/index
    
 Indices and tables
 ==================
