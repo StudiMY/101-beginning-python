@@ -92,8 +92,8 @@ Best Practices
 
 Remember
 --------
-1. ``if..elif..else`` statement requires a condition expression that evaluates to boolean value. 
-2. Use comparison (i.e. ``>``, ``<=``, ``==``) and logical (i.e. ``not``, ``and``, ``or``) to form condition.
+1. ``if..elif..else`` statement requires a **condition expression that evaluates to boolean value**. 
+2. Use comparison (i.e. ``>``, ``<=``, ``==``) and logical (i.e. ``not``, ``and``, ``or``) operators to form condition.
 3. Everything after ``:`` is a block of code belongs to the ``if...elif...else`` statement. Use indentation to indicate the block of code.
 
 .. _quick-resources-control-flow:
