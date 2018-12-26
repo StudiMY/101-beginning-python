@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python For Beginners'
+project = 'Beginning Python'
 copyright = '2018, MARIMORE ENGINEERING SDN. BHD. (925539-H)'
 author = 'Chee Yim Goh'
 
@@ -130,7 +130,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PythonForBeginners.tex', 'Python For Beginners Documentation',
+    (master_doc, 'BeginningPython.tex', 'Beginning Python Text',
      'Chee Yim Goh', 'manual'),
 ]
 
@@ -140,7 +140,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pythonforbeginners', 'Python For Beginners Documentation',
+    (master_doc, 'beginningpython', 'Beginning Python Text',
      [author], 1)
 ]
 
@@ -151,8 +151,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PythonForBeginners', 'Python For Beginners Documentation',
-     author, 'PythonForBeginners', 'One line description of project.',
+    (master_doc, 'beginningpython', 'Beginning Python Text',
+     author, 'BeginningPython', 'One line description of project.',
      'Miscellaneous'),
 ]
 

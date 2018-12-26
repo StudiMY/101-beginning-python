@@ -1,5 +1,16 @@
-# studi.my: Python for beginners
-The curriculum for studi.my: Python for beginners
+# studi.my: 101 Beginning Python
+The curriculum for studi.my: Beginning Python
+
+This is the curriculum material to learn basic Python programming.
+Table Of Contents:
+
+- Introduction
+- Data Types
+- Variables, Statement & Expression
+- Flow Control
+- Functions
+- String Manipulation
+- Summary
 
 ## Copyright and licenses
 

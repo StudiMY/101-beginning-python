@@ -72,7 +72,7 @@ Best Practices
 
 Remember
 --------
-1. Data types help to represent numbers, strings, etc in human readable manner so we can communicate with the machine. In other words, data types is an interface between human and machine. 
+1. Data types help to represent numbers, strings, etc in human readable manner so we can communicate with the machine. In other words, data types is an **interface between human and machine**. 
 2. Full list of all Python types are documented. Refer to :ref:`Quick Resources <quick-resources>`  
 
 .. _quick-resources:
