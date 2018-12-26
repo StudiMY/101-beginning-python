@@ -130,7 +130,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PythonForBeginners.tex', 'Beginning Python Text',
+    (master_doc, 'BeginningPython.tex', 'Beginning Python Text',
      'Chee Yim Goh', 'manual'),
 ]
 
@@ -140,7 +140,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pythonforbeginners', 'Beginning Python Text',
+    (master_doc, 'beginningpython', 'Beginning Python Text',
      [author], 1)
 ]
 
@@ -151,8 +151,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PythonForBeginners', 'Beginning Python Text',
-     author, 'PythonForBeginners', 'One line description of project.',
+    (master_doc, 'beginningpython', 'Beginning Python Text',
+     author, 'BeginningPython', 'One line description of project.',
      'Miscellaneous'),
 ]
 
