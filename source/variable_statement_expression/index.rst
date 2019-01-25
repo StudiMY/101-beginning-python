@@ -109,4 +109,6 @@ Quick Resources
 ---------------
 1. Full list of Python operator - https://docs.python.org/3/library/operator.html
 2. `PyCon 2015: Python Names and Values, Ned Batchelder <https://nedbatchelder.com/text/names1.html>`_.
-
+3. Python expressions list - https://docs.python.org/3/reference/expressions.html
+4. Python simple statement list - https://docs.python.org/3/reference/simple_stmts.html
+5. Python compund statement list - https://docs.python.org/3/reference/compound_stmts.html

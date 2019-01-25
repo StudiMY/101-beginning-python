@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Beginning Python'
-copyright = '2018, MARIMORE ENGINEERING SDN. BHD. (925539-H)'
+project = 'The StudiMY Project - 101 Beginning Python'
+copyright = '2019, MARIMORE ENGINEERING SDN. BHD. (925539-H)'
 author = 'Chee Yim Goh'
 
 # The short X.Y version
